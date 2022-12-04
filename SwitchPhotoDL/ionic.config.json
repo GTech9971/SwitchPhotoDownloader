@@ -1,0 +1,7 @@
+{
+  "name": "SwitchPhotoDL",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
